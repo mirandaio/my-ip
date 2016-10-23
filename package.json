@@ -1,0 +1,23 @@
+{
+  "name": "your-ip",
+  "version": "1.0.0",
+  "description": "Your IP address",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirandaio/your-ip.git"
+  },
+  "keywords": [],
+  "author": "Alfredo Miranda <alfredo@miranda.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mirandaio/your-ip/issues"
+  },
+  "homepage": "https://github.com/mirandaio/your-ip#readme",
+  "dependencies": {
+    "koa": "^1.2.4"
+  }
+}
