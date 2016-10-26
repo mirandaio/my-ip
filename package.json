@@ -20,6 +20,7 @@
   "dependencies": {
     "co-views": "^2.1.0",
     "ejs": "^2.5.2",
-    "koa": "^1.2.4"
+    "koa": "^1.2.4",
+    "koa-static": "^2.0.0"
   }
 }
