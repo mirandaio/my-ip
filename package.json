@@ -1,5 +1,5 @@
 {
-  "name": "your-ip",
+  "name": "my-ip",
   "version": "1.0.0",
   "description": "Your IP address",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mirandaio/your-ip.git"
+    "url": "git+https://github.com/mirandaio/my-ip.git"
   },
   "keywords": [],
   "author": "Alfredo Miranda <alfredo@miranda.io>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mirandaio/your-ip/issues"
+    "url": "https://github.com/mirandaio/my-ip/issues"
   },
-  "homepage": "https://github.com/mirandaio/your-ip#readme",
+  "homepage": "https://github.com/mirandaio/my-ip#readme",
   "dependencies": {
     "co-views": "^2.1.0",
     "ejs": "^2.5.2",
